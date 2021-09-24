@@ -1,0 +1,18 @@
+plugin: oracle.oci.oci
+
+# Example select regions
+regions:
+  - eu-frankfurt-1
+#  - eu-frankfurt-2
+#  - eu-frankfurt-3
+
+# Enable threads to speedup lookup
+enable_parallel_processing: False
+
+# DB Hosts
+fetch_db_hosts: True
+
+# Compute Hosts (bool type)
+fetch_compute_hosts: False
+
+hostname_format: 'fqdn'
