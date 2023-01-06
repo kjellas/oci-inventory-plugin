@@ -12,3 +12,4 @@ Testing of Ansible OCI Inventory plugin
 ## Blogs
 
 * https://martincarstenbach.wordpress.com/2020/11/10/ansible-tipsntricks-configuring-the-dynamic-inventory-plugin-for-oracle-cloud-infrastructure/
+* https://martincarstenbach.wordpress.com/2020/11/12/ansible-dynamic-inventory-plugin-for-oci-where-are-all-my-hosts/
