@@ -8,3 +8,7 @@ Testing of Ansible OCI Inventory plugin
 
 ## Source code
 * <https://github.com/oracle/oci-ansible-collection/blob/master/plugins/inventory/oci.py>
+
+## Blogs
+
+* https://martincarstenbach.wordpress.com/2020/11/10/ansible-tipsntricks-configuring-the-dynamic-inventory-plugin-for-oracle-cloud-infrastructure/
